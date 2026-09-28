@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "skill": "block-runner",
+  "source": "skills/block-runner",
+  "packageVersion": "0.8.0",
+  "scope": "project",
+  "target": "agents",
+  "files": {
+    "references/GUIDE.md": {
+      "sha256": "sha256:73ce9c40d39ce5e597fb108652a0980b67b115da2ab0ba40bec76578d729bce6",
+      "mode": 438
+    },
+    "SKILL.md": {
+      "sha256": "sha256:9b13e910260dca7f3354ff7908ca9793ef96f82917a17d4fa1690e3f420fa3b8",
+      "mode": 438
+    }
+  }
+}
