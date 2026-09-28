@@ -1,0 +1,17 @@
+# Dependencies
+/node_modules/
+wp-env/
+/build/
+source-html/
+
+# IDE
+.vscode/
+.idea/
+.agents/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
